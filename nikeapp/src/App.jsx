@@ -1,4 +1,4 @@
-import {
+import {Heros,CustomerReview, Footer, PopularProducts,Services,SpecialOffer,Subscribe,SuperQuality
 
 } from './sections';
 
